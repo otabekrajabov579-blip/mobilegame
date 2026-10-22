@@ -1,0 +1,3 @@
+C:\unityyyyy\Mobile game 1\mobil game 1-topshiriq\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\unityyyyy\Mobile game 1\mobil game 1-topshiriq\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+C:\unityyyyy\Mobile game 1\mobil game 1-topshiriq\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
